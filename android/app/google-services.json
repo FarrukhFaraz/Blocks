@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55642890635",
+    "project_id": "iyoutrade-56ca1",
+    "storage_bucket": "iyoutrade-56ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55642890635:android:9fbcb23c2286fb9a7d8f8e",
+        "android_client_info": {
+          "package_name": "com.softizer.iyoutrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55642890635-p991tdtf8ikopk2iqr9o1ipc5fkfe4sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2BI9qx6P-rAZbNGfaahqUs4C_2odeFjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55642890635-p991tdtf8ikopk2iqr9o1ipc5fkfe4sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
